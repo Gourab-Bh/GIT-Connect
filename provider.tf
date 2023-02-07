@@ -11,5 +11,4 @@ provider "google" {
   project = "planar-rarity-376404"
   region  = "us-central1"
   zone    = "us-central1-c"
-  credentials = "D:\\bhatt\\Desktop\\Terraform Learning\\GCP-Testing\\JSON-Key.json"
 }
